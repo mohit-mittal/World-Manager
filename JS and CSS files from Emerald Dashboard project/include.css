@@ -1,0 +1,563 @@
+@media (max-width: 1280px) {
+    .bx-prev, .bx-next {
+        display: none;
+    }
+}
+
+@media  (max-width: 1441px) {
+.space_temp {
+    display: inline-block; 
+    width: 50px;
+}
+
+.space_util {
+    display: inline-block;
+    width: 74px;
+}
+
+.space_pow_usg {
+    display: inline-block;
+    width: 46px;
+}
+
+.space_run_proc {
+    display: inline-block;
+    width: 13.5px;
+}
+
+    .popover-title {
+        font-size: 14px;
+    }
+    .modal-sm {
+        width: 400px;
+    }
+    .logo {
+        margin-top: -21px;
+        /*width: 116px;*/
+        height: 58px;
+    }
+
+    .heading {
+        position: absolute;
+        top: -11px;
+        margin-left: 135px;
+    /*cursor: pointer;*/
+    }
+
+    .temp_container, .util_container, .pow_usg_container, .run_proc_container {
+        height: 58.5em;
+    }
+
+    .bx-wrapper,
+        .bx-viewport {
+        width: 1250px !important;
+    }
+
+    h2 {
+        font-size: 40px;
+    }
+
+    h3 {
+        font-size: 30px;
+    }
+
+    h4 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .date {
+        font-size: 20px;
+        position: absolute;
+        right: 5px;
+        top: 15px;
+    }
+
+    .btn {
+            /*Top Right Bottom Left*/
+        margin: 6px 2px 6px 2px;
+    }
+
+    .shadow {
+        box-shadow: 0px 0px 15px #ffffff;
+        background-color: lightgray;
+        border-radius: 11px;
+    }
+
+    .btn-lg {
+        height: 32px;
+        padding: 15px;
+    }
+}
+
+@media  (min-width:1442px) and (max-width: 1749px) {
+.space_temp {
+    display: inline-block; 
+    width: 50px;
+}
+
+.space_util {
+    display: inline-block;
+    width: 74px;
+}
+
+.space_pow_usg {
+    display: inline-block;
+    width: 46px;
+}
+
+.space_run_proc {
+    display: inline-block;
+    width: 13.5px;
+}
+    .modal-sm {
+        width: 400px;
+    }
+
+    .logo {
+        margin-top: -21px;
+        /*width: 116px;*/
+        height: 58px;
+    }
+
+    .heading {
+        position: absolute;
+        top: -11px;
+        margin-left: 135px;
+    /*cursor: pointer;*/
+    }
+
+    
+    .popover-title {
+        font-size: 16px;
+    }
+
+    .temp_container, .util_container, .pow_usg_container, .run_proc_container {
+        height: 58em;
+    }
+
+    .bx-wrapper,
+        .bx-viewport {
+        width: 1460px !important;
+    }
+
+    h2 {
+        font-size: 40px;
+    }
+
+    h3 {
+        font-size: 30px;
+    }
+
+    h4 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    td {
+        font-size: 18px;
+    }
+
+    .date {
+        font-size: 20px;
+        position: absolute;
+        right: 5px;
+        top: 25px;
+    }
+
+    .btn {
+            /*Top Right Bottom Left*/
+        margin: 6px 5px 6px 5px;
+    }
+
+    .shadow {
+        box-shadow: 0px 0px 15px #ffffff;
+        background-color: lightgray;
+        border-radius: 10px;
+    }
+
+    .btn-lg {
+        height: 32px;
+        padding: 16px;
+    }
+}
+
+@media  (min-width: 1750px) and (max-width: 1999px) {
+.space_temp {
+    display: inline-block; 
+    width: 52px;
+}
+
+.space_util {
+    display: inline-block;
+    width: 85px;
+}
+
+.space_pow_usg {
+    display: inline-block;
+    width: 46px;
+}
+
+.space_run_proc {
+    display: inline-block;
+    width: 13.5px;
+}
+    .modal-sm {
+        width: 500px;
+    }
+
+    .logo {
+        margin-top: -20px;
+        /*width: 138px;*/
+        height: 68px;
+    }
+    
+    .heading {
+        position: absolute;
+        top: -11px;
+        margin-left: 155px;
+    /*cursor: pointer;*/
+    }
+
+
+    .popover-title {
+        font-size: 18px;
+    }
+
+    .temp_container, .util_container, .pow_usg_container, .run_proc_container {
+        height: 61em;
+    }
+
+    .bx-wrapper,
+        .bx-viewport {
+            /* 1080p */
+        width: 1740px !important;
+    }
+
+    h2 {
+        font-size: 50px;
+    }
+
+    h3 {
+        font-size: 40px;
+    }
+
+    h4 {
+        font-size: 25px;
+        line-height: 45px;
+    }
+
+    td {
+        font-size: 20px;
+    }
+
+    .date {
+        font-size: 30px;
+        position: absolute;
+        right: 5px;
+        top: 25px;
+    }
+
+    .btn {
+            /*Top Right Bottom Left*/
+        margin: 6px 9px 6px 9px;
+    }
+
+    .shadow {
+        box-shadow: 0px 0px 15px #ffffff;
+        background-color: lightgray;
+        border-radius: 10px;
+    }
+
+    .btn-lg {
+        height: 32px;
+        padding: 16px;
+    }
+}
+
+@media  (min-width: 2000px) {
+.space_temp {
+    display: inline-block; 
+    width: 61px;
+}
+
+.space_util {
+    display: inline-block;
+    width: 96px;
+}
+
+.space_pow_usg {
+    display: inline-block;
+    width: 52px;
+}
+
+.space_run_proc {
+    display: inline-block;
+    width: 13.5px;
+}
+    .modal-sm {
+        width: 500px;
+    }
+
+    .logo {
+        margin-top: -20px;
+        /*width: 138px;*/
+        height: 68px;
+    }
+
+    .heading {
+        position: absolute;
+        top: -11px;
+        margin-left: 155px;
+    /*cursor: pointer;*/
+    }
+
+    .popover-title {
+        font-size: 18px;
+    }
+
+    .temp_container, .util_container, .pow_usg_container, .run_proc_container {
+        height: 61em;
+    }
+
+    .bx-wrapper,
+        .bx-viewport {
+        width: 1800px !important;
+    }
+
+    .bx-viewport {
+        height: 870px;
+    }
+
+    h2 {
+        font-size: 50px;
+    }
+
+    h3 {
+        font-size: 40px;
+    }
+
+    h4 {
+        font-size: 25px;
+        line-height: 45px;
+    }
+
+    td {
+        font-size: 20px;
+    }
+
+    .date {
+        font-size: 30px;
+        position: absolute;
+        right: 5px;
+        top: 25px;
+    }
+
+    .btn {
+            /*Top Right Bottom Left*/
+        margin: 6px 9px 6px 9px;
+    }
+
+    .shadow {
+        box-shadow: 0px 0px 15px #ffffff;
+        background-color: lightgray;
+        border-radius: 10px;
+    }
+
+    .btn-lg {
+        height: 32px;
+        padding: 16px;
+    }
+}
+
+/*Common CSS*/
+
+.logoWithSiteName {
+    float: left;
+    /*display: flex;*/
+    /*cursor: pointer;*/
+}
+
+#bx-pager {
+    margin-top: -3em;
+    /*display: table-row;*/
+}
+#bx-pager > li {
+    display: table-cell;
+}
+.bx-controls-auto-item {
+    float: right;
+}
+.btn-lg {
+    border-color: black;
+}
+
+.btn-dark-green {
+    color: white;
+}
+
+.btn-key {
+    width: 115px;
+    font-family: arial;
+    /*font-weight: bold;*/
+}
+
+.shadow {
+    border: 1px solid #000;
+}
+
+table {
+    margin: 0 auto;
+}
+
+h1,
+        body {
+    font-family: "VAG Rounded", Arial, serif();
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #EEE;
+}
+
+.after-heading {
+    margin-bottom: 6px;
+    margin-top: -10px;
+}
+
+.before-2nd-table {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.bx-prev {
+    margin-left: -4em;
+}
+
+.bx-next {
+    margin-right: -4em;
+}
+
+.btn-black {
+    background-color: #3F2F2B;
+    color: #FFF;
+}
+
+.btn-black:hover {
+    background-color: #000000;
+    color: #FFF;
+}
+
+.btn-light-green {
+    background-color: #A8FABD;
+}
+
+.btn-spring-green {
+    background-color: #95E79E;
+}
+
+.btn-lime-green {
+    background-color: #57DA57;
+}
+
+.btn-dark-green {
+    background-color: #35A51F;
+}
+
+.table > tbody > tr > td {
+            /* It overrides the bootstrap-min.css and removes the horizontal lines */
+    border-top: none;
+    padding: 3px;
+}
+
+.table.temptable {
+    display: table-row;
+}
+
+.table.utiltable {
+    display: table-row;
+}
+
+.table.pow_usg_table {
+    display: table-row;
+}
+
+.table.run_proc_table {
+    display: table-row;
+}
+
+.key-text {
+    font-size: 14px;
+    display: table-cell;
+}
+
+.inner_heading {
+    text-decoration: underline;
+    font-weight: bold;
+    position: relative;
+    top: -15px;
+}
+
+li {
+    margin-left: -40px;
+}
+
+.about {
+    font-size: 15px;
+    float: left;
+    /*height: 2em;*/
+    /*margin-left: 5px;*/
+    text-decoration: underline;
+}
+
+/*pre {
+    display: inline;
+    background-color: transparent;
+    border: none;
+
+}*/
+
+
+body > div.bx-wrapper > div.bx-controls.bx-has-controls-direction.bx-has-controls-auto > div.bx-controls-direction {
+    display: none;
+}
+
+body > div.bx-wrapper > div.bx-viewport {
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    width: 15em !important;
+    bottom: 78px;
+    background-color: transparent;
+    border: none;
+}
+body > div.bx-wrapper > div.bx-controls.bx-has-controls-direction.bx-has-controls-auto > div.bx-controls-auto {
+    display: none;
+}
+
+.question {
+    font-size: 25px;
+}
+.answer {
+    font-size: 18px;
+    text-align: justify;
+}
+.modal_value {
+    margin: 0;
+}
+
+#popOverHostname, #popOvergpu {
+    display: table-cell;
+}
+
+#popOverHostname {
+    color: #0000EE;
+}
+#popOverHostname:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.popover {
+    width: 276px;
+    height: 187px;
+}
